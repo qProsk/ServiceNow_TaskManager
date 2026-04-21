@@ -26,9 +26,13 @@ The project focuses on workflow automation, business logic, and basic analytics.
 * Flow Designer
 * Platform Analytics
 
-## Screenshots
+## Screenshots:
 
+### Flows:
 (To be added)
+### Dashboard:
+
+### TaskForm:
 
 ## Purpose
 
