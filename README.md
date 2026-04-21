@@ -26,11 +26,21 @@ The project focuses on workflow automation, business logic, and basic analytics.
 * Flow Designer
 * Platform Analytics
 
-## Screenshots:
+## Screenshots
 
-### Flows:
-(To be added)
-### Dashboard:
+### Flow Logic
+
+#### Due Date Assignment/Email Notification
+![Due Date Flow](flow-due-date.png)
+
+#### Auto Assignment Flow
+![Auto Assigment](auto-assigment.png)
+
+### Dashboard
+![Dashboard](dashboard.png)
+
+### Task Form
+![Task Form](task-form.png)
 
 ### TaskForm:
 
