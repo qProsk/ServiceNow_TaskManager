@@ -42,7 +42,6 @@ The project focuses on workflow automation, business logic, and basic analytics.
 ### Task Form
 ![Task Form](task-form.png)
 
-### TaskForm:
 
 ## Purpose
 
